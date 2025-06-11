@@ -3,4 +3,5 @@ opencv-python
 matplotlib
 torch
 torchvision
+kagglehub
 albumentations
