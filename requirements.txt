@@ -5,3 +5,6 @@ torch
 torchvision
 kagglehub
 albumentations
+tqdm
+lime
+shap
